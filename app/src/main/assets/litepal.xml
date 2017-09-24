@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Bookstore"></dbname>
+    <version value="3"></version>
+    <list>
+        <mapping class="com.example.cc.litepaldemo.bean.Book"></mapping>
+        <mapping class="com.example.cc.litepaldemo.bean.Category"></mapping>
+        <mapping class="com.example.cc.litepaldemo.bean.BookChannel"></mapping>
+    </list>
+</litepal>
